@@ -5,7 +5,7 @@
   "main": "server.js",
   "bin": {
     "opendia": "./server.js"
-  }
+  },
   "scripts": {
     "start": "node server.js",
     "tunnel": "node server.js --tunnel",
@@ -46,6 +46,7 @@
   },
   "files": [
     "server.js",
+    "src/**/*",
     "README.md"
   ]
 }
