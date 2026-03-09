@@ -1,3 +1,9 @@
+> **About This Repo**
+>
+> This is a fork of [aaronjmars/opendia](https://github.com/aaronjmars/opendia).
+>
+> This fork maintains the core functionality while publishing under the `@lionad` npm scope for personal use.
+
 # OpenDia <img src="opendia-extension/icons/icon-128.png" alt="OpenDia" width="32" height="32">
 
 **The open alternative to Dia / Perplexity Comet**  

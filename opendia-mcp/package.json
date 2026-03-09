@@ -1,11 +1,11 @@
 {
-  "name": "opendia",
+  "name": "@lionad/opendia",
   "version": "1.1.0",
   "description": "🎯 OpenDia - The open alternative to Dia. Connect your browser to AI models with anti-detection bypass for Twitter/X, LinkedIn, Facebook",
   "main": "server.js",
   "bin": {
     "opendia": "./server.js"
-  },
+  }
   "scripts": {
     "start": "node server.js",
     "tunnel": "node server.js --tunnel",
@@ -26,15 +26,15 @@
     "facebook",
     "anti-detection"
   ],
-  "author": "OpenDia Team",
+  "author": "Lionad <lionad@codelooper.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aaronjmars/opendia.git"
+    "url": "https://github.com/Lionad-Morotar/opendia.git"
   },
-  "homepage": "https://github.com/aaronjmars/opendia",
+  "homepage": "https://github.com/Lionad-Morotar/opendia",
   "bugs": {
-    "url": "https://github.com/aaronjmars/opendia/issues"
+    "url": "https://github.com/Lionad-Morotar/opendia/issues"
   },
   "dependencies": {
     "cors": "^2.8.5",
